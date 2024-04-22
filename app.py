@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # ------------------------------------------------------
 #                      APP CONSTANTS
 # ------------------------------------------------------
-REMOTE_DATA = 'Homicide Report.csv'
+REMOTE_DATA = 'homicide2.csv'
 
 
 # ------------------------------------------------------
