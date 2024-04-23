@@ -1,9 +1,12 @@
 <h1>TonksGuard Web App</h1>
-TonksGuard Web App is a Streamlit application designed to provide various functionalities related to homicide data analysis, crime victim support organizations, emergency contacts, and network analysis of individuals involved in homicide cases.
 
-Features
-Statistical Reports
-Yearly Crime Trends: Visualizes the yearly trends of homicide incidents.
+TonksGuard Web App is a Streamlit application designed to provide various functionalities related to homicide data analysis, crime victim support organizations, emergency contacts, and network analysis of individuals involved in the homicide cases.
+
+<h2>Features</h2>
+
+<h3>Statistical Reports</h3>
+
+<b>Yearly Crime Trends:</b> Visualizes the yearly trends of homicide incidents.
 Crime Types Distribution: Shows the distribution of different crime types.
 Relationship Analysis: Analyzes the relationships between victims and perpetrators.
 Weapon Usage Patterns: Presents the distribution of weapons used in homicide cases.
