@@ -13,7 +13,7 @@ import datetime
 
 load_dotenv()
 
-@st.cache_data
+@st.cache
 def get_data():
 
     b2 = B2(endpoint=os.environ['B2_ENDPOINT'],
