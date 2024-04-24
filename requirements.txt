@@ -16,6 +16,7 @@ boto3
 botocore
 cachetools
 certifi
+networkx==2.7.1
 cffi
 charset-normalizer
 click
