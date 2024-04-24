@@ -98,7 +98,7 @@ def visualize_network(G):
     ax.set_title("Homicide Case Network")
     st.pyplot(fig)
 
-REMOTE_DATA = 'homicide2.csv'
+REMOTE_DATA = 'Homicide Report.csv'
 df_homicide, agency_counts = get_data()
 
 #for sidebar
