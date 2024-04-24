@@ -116,6 +116,7 @@ rfc3339-validator
 rfc3986-validator
 rich
 rpds-py
+seaborn==0.11.2
 s3transfer
 scikit-learn
 scipy
