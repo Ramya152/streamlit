@@ -27,6 +27,7 @@ dash-core-components
 dash-html-components
 dash-table
 debugpy
+folium==0.12.1
 decorator
 defusedxml
 exceptiongroup
