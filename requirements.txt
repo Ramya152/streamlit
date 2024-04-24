@@ -148,3 +148,4 @@ websocket-client
 Werkzeug
 widgetsnbextension
 zipp
+geopy==2.2.0
