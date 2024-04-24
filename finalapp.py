@@ -7,7 +7,6 @@ from geopy.geocoders import Nominatim
 import folium
 import streamlit.components.v1 as components
 from utils.b2 import B2
-from utils.modeling import *
 import networkx as nx  
 import seaborn as sns  
 import datetime
