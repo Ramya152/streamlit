@@ -23,7 +23,7 @@ class TonksGuardApp:
             st.session_state.report_index = 0
 
     @staticmethod
-    @st.cache_resource
+    @st.cache
     def get_data():
         b2 = B2(endpoint=os.environ['B2_ENDPOINT'],
                 key_id=os.environ['B2_KEYID'],
