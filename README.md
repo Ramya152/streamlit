@@ -45,6 +45,19 @@ Provides links to various crime victim support organizations for assistance and 
 <h3>Emergency Contacts</h3>
 Lists emergency contact numbers for immediate help in critical situations.
 
+<h2>Usage Example</h2>
+Imagine you're a new resident in a city and want to explore the safety and crime statistics of different neighborhoods. You can use TonksGuard Web App to analyze crime trends, find nearby police departments for each neighborhood, and access emergency contacts in case of any safety concerns. Additionally, if you need support or assistance related to crime victimization, you can easily find information about relevant support organizations through the application.
+
+<h2>How to Run</h2>
+To run the TonksGuard Web App locally, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies using pip install -r requirements.txt.
+3. Set up environment variables for accessing crime datasets and geolocation services.
+4. Run the application using streamlit run app.py.
+
+<h3>Contributing</h3>
+Contributions to TonksGuard Web App are welcome! If you have suggestions for new features, bug fixes, or improvements, please submit a pull request or open an issue on GitHub.
+
 <h3>Ethical Concerns</h3>
 1. The homicide dataset used may contain sensitive information about victims and perpetrators. To mitigate privacy risks, personal identifiers such as names and addresses are not displayed, and only aggregate information is presented.<br />
 2. There also may be biases in the data collection process in the criminal justice system reflected in the dataset. To address this, stakeholders should interpret the results with caution and consider potential biases when making decisions based on the analysis.
