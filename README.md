@@ -17,7 +17,6 @@ The TonksGuard Web App is built using the following tools:
 <b>Matplotlib</b>: Python plotting library for creating static, interactive, and animated visualizations.<br />
 <b>Folium</b>: Python library for creating interactive maps.<br />
 <b>Geopy</b>: Python library for geocoding and working with geographical data.
-
 <b>Backblaze</b>
 Backblaze is a cloud storage provider utilized to store and access crime datasets securely. It offers reliable and cost-effective cloud storage solutions, allowing us to store large datasets and access them programmatically through APIs.<br />
 In the TonksGuard Web App, we utilize Backblaze to store and access crime datasets securely. 
