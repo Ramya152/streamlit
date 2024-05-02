@@ -18,6 +18,10 @@ The TonksGuard Web App is built using the following tools:
 <b>Folium</b>: Python library for creating interactive maps.<br />
 <b>Geopy</b>: Python library for geocoding and working with geographical data.
 
+<b>Backblaze</b>
+Backblaze is a cloud storage provider utilized to store and access crime datasets securely. It offers reliable and cost-effective cloud storage solutions, allowing us to store large datasets and access them programmatically through APIs.<br />
+In the TonksGuard Web App, we utilize Backblaze to store and access crime datasets securely. 
+
 <h3>Algorithm Description</h3>
 The main algorithms in TonksGuard Web App are:
 
@@ -49,10 +53,10 @@ Lists emergency contact numbers for immediate help in critical situations.
 Imagine you're a new resident in a city and want to explore the safety and crime statistics of different neighborhoods. You can use TonksGuard Web App to analyze crime trends, find nearby police departments for each neighborhood, and access emergency contacts in case of any safety concerns. Additionally, if you need support or assistance related to crime victimization, you can easily find information about relevant support organizations through the application.
 
 <h2>How to Run</h2>
-To run the TonksGuard Web App locally, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies using pip install -r requirements.txt.
-3. Set up environment variables for accessing crime datasets and geolocation services.
+To run the TonksGuard Web App locally, follow these steps:<br />
+1. Clone the repository to your local machine.<br />
+2. Install the required dependencies using pip install -r requirements.txt.<br />
+3. Set up environment variables for accessing crime datasets and geolocation services.<br />
 4. Run the application using streamlit run app.py.
 
 <h3>Contributing</h3>
